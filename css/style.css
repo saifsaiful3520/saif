@@ -1,0 +1,45 @@
+body{}
+div{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #9a11b3;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+    text-align: center;
+    padding: 70px;
+}
+h1{
+    margin: 0;
+    font-size: 55px;
+    color: orange;
+    margin-top: 32px;
+}
+p{
+    margin: 30px;
+    font-size: 22px;
+    line-height: 30px;
+}
+a{
+    color: white;
+    background: red;
+    padding: 20px;
+    font-size: 22px;
+    text-decoration: line-through;
+    font-weight: 900;
+    letter-spacing: 5px;
+    margin-bottom: 30px;
+
+
+
+
+}
+img{
+	 width: 100%
+
+    
+}
+
+
+
